@@ -21,5 +21,5 @@ npm install
 Launch the server in development environment :
 
 ```sh
-npm run dev
+npm run test
 ```
